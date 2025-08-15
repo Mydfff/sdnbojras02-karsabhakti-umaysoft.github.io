@@ -67,6 +67,12 @@ nav .logo {
   display: flex;
   align-items: center;
   gap: 10px;
+  text-decoration: none; 
+  color: white;
+}
+
+nav .logo:hover {
+  opacity: 0.85; 
 }
 
 nav .logo img {
